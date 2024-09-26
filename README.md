@@ -2,6 +2,7 @@
 
 ## Project Overview
 FoodConnect is a Salesforce application designed to efficiently supply leftover food to those in need. The project facilitates connections between venues and volunteers, enabling effective food distribution management. It includes custom objects, fields, automation flows, and reporting features to streamline operations and enhance user engagement. This repository contains the implementation steps, configurations, and essential components to replicate the application in a Salesforce environment.
+https://drive.google.com/drive/folders/1NJKrBQUO2qgBrewQwWRyJLev9OjYhFrA
 ## Implementation Steps
 **Account Creation** : Set up a Salesforce Developer account.
 
@@ -32,7 +33,8 @@ FoodConnect is a Salesforce application designed to efficiently supply leftover 
 **Home Page Customization**: Customized the home page to display key metrics, reports, and dashboards for users.
 
 ## Screenshots
-![Home Page](FoodConnect/saleforce1.png)
+![Home Page](Home1.png)
+![Home Page](Home2.png)
 
 ## How to Set Up the Project
 **1)Clone the repository**:
