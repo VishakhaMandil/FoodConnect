@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1NJKrBQUO2qgBrewQwWRyJLev9OjYhFrA
 ## How to Set Up the Project
 **1)Clone the repository**:
 
-git clone https://github.com/username/FoodConnect.git
+https://github.com/VishakhaMandil/FoodConnect.git
 
 Follow the implementation steps outlined above to replicate the project setup in your Salesforce environment.
 
