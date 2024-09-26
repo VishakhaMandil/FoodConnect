@@ -32,7 +32,7 @@ FoodConnect is a Salesforce application designed to efficiently supply leftover 
 **Home Page Customization**: Customized the home page to display key metrics, reports, and dashboards for users.
 
 ## Screenshots
-
+![Home Page](FoodConnect/saleforce1.png)
 
 ## How to Set Up the Project
 **1)Clone the repository**:
